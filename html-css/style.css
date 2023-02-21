@@ -167,6 +167,31 @@
             margin-bottom: 0px;
             background-color: blue;
         }
+        .pserv1 {
+            display: none;
+        }
+        .pserv2 {
+            display: none;
+        }
+        .pserv3 {
+            display: none;
+        }
+        .pserv4 {
+            display: none;
+        }
+        .pserv5 {
+            display: none;
+        }
+        .pserv6 {
+            display: none;
+        }
+        .pserv7 {
+            display: none;
+        }
+        .pserv8 {
+            display: none;
+        }
+        
         footer {
                 background-color: #fff;
                 margin: 0px -8px;
