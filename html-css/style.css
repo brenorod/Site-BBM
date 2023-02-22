@@ -105,11 +105,11 @@
        
         main{
             border-radius: 25px;
-            color: #ff0000;
+            color: #202123;
             max-width: 800px;
             display: block;
             margin: auto;
-            background-color: #ffe600;
+            background-color: #3d3d3d;
         }
         
         main > p {
@@ -120,9 +120,10 @@
             color: #000000;
             font-family: Arial, Helvetica, sans-serif;
             font-style: bold;
-            background-color: brown;    
+            background-color: #3d3d3d;    
         }
         h1{
+            color: aliceblue;
             border-radius: 25px 25px 0px 0px ;
             padding: 0px 10px ;
             margin: auto;
@@ -153,45 +154,21 @@
             color: #000000;
             font-family: Arial, Helvetica, sans-serif;
             font-style: bold;
-            background-color: rgb(255, 10, 10);
+            background-color: #3d3d3d;
         }
                   
         h2{
             cursor: pointer;
-            color: #000000;
+            color: aliceblue;
+            border-radius: 10px;
             padding-top: 5px;
             padding-left: 5px;
             padding-bottom: 0px;
-            margin-top: 0px;
+            margin-top: 5px;
             margin-left: -0px;
             margin-bottom: 0px;
-            background-color: blue;
-        }
-        .pserv1 {
-            display: none;
-        }
-        .pserv2 {
-            display: none;
-        }
-        .pserv3 {
-            display: none;
-        }
-        .pserv4 {
-            display: none;
-        }
-        .pserv5 {
-            display: none;
-        }
-        .pserv6 {
-            display: none;
-        }
-        .pserv7 {
-            display: none;
-        }
-        .pserv8 {
-            display: none;
-        }
-        
+            background-color: #202123;
+        }       
         footer {
                 background-color: #fff;
                 margin: 0px -8px;
